@@ -10,7 +10,7 @@ This project explores the Environmental Kuznets Curve at the country level. Afte
 
 
 
-## Our code sources are listed below. Each of these links contains a list and description of all columns. These are each stored in the Datasets Folder, except the SOTU data is in a zip file.
+## Our code sources are listed below. Each of these links contains a list and description of all columns. These are each stored in the Datasets Folder.
 
 [OWID Energy](https://github.com/owid/energy-data/blob/master/owid-energy-codebook.csv)
 
